@@ -24,7 +24,7 @@ This project is a Streamlit web application that manages and analyzes Equal Empl
     cd <repository_directory>
     ```
 
-2. **Set Up a Virtual Environment (Optional but Recommended)**
+2. **Set Up a Virtual Environment (Optional, but personally recommended by me)**
 
     ```sh
     python -m venv venv
