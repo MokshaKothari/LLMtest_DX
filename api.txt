@@ -1,0 +1,5 @@
+Key: ff2303a27c6e48618e17248c4761dfe9
+Endpoint: https://dxfactor-openai.openai.azure.com/
+Location: eastus
+Deployment Name: DX-GPT35
+API Version: 2024-03-01-preview
