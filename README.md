@@ -53,9 +53,9 @@ This project is a Streamlit web application that manages and analyzes Equal Empl
     - Streamlit -> Chat Interface
     - GPT 3.5 -> Large Language Model
     - Additionally, 
-        Storage -> in-memory; using list []
-        Minimum styling -> css; using st.markdown()
-        Logging -> event tracking and debugging
+    -    Storage -> in-memory; using list []
+         Minimum styling -> css; using st.markdown()
+         Logging -> event tracking and debugging
 
 5. **Run the Streamlit App locally**
 
